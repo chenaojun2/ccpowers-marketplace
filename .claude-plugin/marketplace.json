@@ -1,0 +1,39 @@
+{
+  "name": "ccpowers",
+  "owner": {
+    "name": "chenaojun"
+  },
+  "description": "Claude Code 中文核心技能库 marketplace",
+  "plugins": [
+    {
+      "name": "ccpowers",
+      "source": {
+        "source": "github",
+        "repo": "chenaojun2/ccpowers"
+      },
+      "description": "Claude Code 核心技能库：TDD、调试、协作模式、计划执行与 UI 自动化测试（中文版）",
+      "author": {
+        "name": "chenaojun"
+      },
+      "homepage": "https://github.com/chenaojun2/ccpowers",
+      "repository": "https://github.com/chenaojun2/ccpowers",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "skills",
+        "tdd",
+        "debugging",
+        "workflow",
+        "ui-autotest",
+        "midscene"
+      ],
+      "category": "Productivity",
+      "tags": [
+        "skills",
+        "workflow",
+        "testing",
+        "automation"
+      ]
+    }
+  ]
+}
