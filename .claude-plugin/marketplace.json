@@ -8,8 +8,8 @@
     {
       "name": "ccpowers",
       "source": {
-        "source": "github",
-        "repo": "chenaojun2/ccpowers"
+        "source": "url",
+        "url": "https://github.com/chenaojun2/ccpowers.git"
       },
       "description": "Claude Code 核心技能库：TDD、调试、协作模式、计划执行与 UI 自动化测试（中文版）",
       "author": {
